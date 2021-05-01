@@ -6,4 +6,4 @@ I am an Web Dev. enthusiast & currently persuing my Bachelors in Computer Applic
  
 🖥️ I’m currently working on Web Development
 
-🤖 I’m currently learning React.js, Kotlin
+🤖 Currently learning React.js, Kotlin
