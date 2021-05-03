@@ -9,3 +9,6 @@ A third year student currently persuing my Bachelors in Computer Application.
 🖥️ I’m currently working on Web Development.
 
 🤖 Currently learning React.js, Kotlin.
+
+**Connect with me**
+kamallochanboruah7@gmail.com
