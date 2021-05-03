@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Kamal!</h1>
 <h3 align="center">I am a Web Dev. enthusiast.</h3>
 
+<div class="tenor-gif-embed" data-postid="21042583" data-share-method="host" data-width="100%" data-aspect-ratio="1.0"><a href="https://tenor.com/view/dm4uz3-foekoe-foekoe-gaming-the-greenscreen-room-emoji-gif-21042583">Dm4uz3 Foekoe GIF</a> from <a href="https://tenor.com/search/dm4uz3-gifs">Dm4uz3 GIFs</a></div><script type="text/javascript" async src="https://tenor.com/embed.js"></script> 
+
 A third year student currently persuing my Bachelors in Computer Application.
 
 - 🖥️ I’m currently working on **Web Development**
