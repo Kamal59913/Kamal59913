@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kamal!</h1>
 <h3 align="center">I am a Web Dev. enthusiast.</h3>
 
-<img align="right" alt="hand waving" src="https://tenor.com/view/dm4uz3-foekoe-foekoe-gaming-the-greenscreen-room-emoji-gif-21042583"/>
-
 A third year student currently persuing my Bachelors in Computer Application.
 
 - 🖥️ I’m currently working on **Web Development**
