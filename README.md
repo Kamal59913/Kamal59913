@@ -1,13 +1,17 @@
 <h1 align="center">Hi 👋, I'm Kamal!</h1>
 <h3 align="center">I am an Web Dev. enthusiast.</h3>
 
-- 🔭 I’m currently working on **Web Development**
+A third year student currently persuing my Bachelors in Computer Application.
+
+- 🖥️ I’m currently working on **Web Development**
 
 - 🌱 I’m currently learning **React.js, Kotlin**
 
 - 💬 Ask me about **Node.js, express.js, MongoDB**
 
 - 📫 How to reach me **kamallochanboruah7@gmail.com**
+
+- 🤖Looking Forward explore more on 😅every other technologies.
 
 - ⚡ Fun fact ***heart*music**
 
