@@ -15,8 +15,6 @@ A third year student currently persuing my Bachelors in Computer Application.
 
 - 🤖Looking Forward explore more on 😅every other technologies.
 
-- ⚡ Fun fact ***heart*music**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/_k_amal__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/instagram.svg" alt="_k_amal__" height="30" width="40" /></a>
