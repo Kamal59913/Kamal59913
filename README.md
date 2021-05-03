@@ -10,5 +10,5 @@ A third year student currently persuing my Bachelors in Computer Application.
 
 🤖 Currently learning React.js, Kotlin.
 
-**Connect with me**
+**Connect with me:**
 kamallochanboruah7@gmail.com
