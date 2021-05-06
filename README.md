@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kamal!</h1>
-<h3 align="center">I am a Web Dev. enthusiast.</h3>
+<h3 align="center">I am a Web Dev. enthusiast. back-end in particular </h3>
 
 A third year student currently persuing my Bachelors in Computer Application.
 
