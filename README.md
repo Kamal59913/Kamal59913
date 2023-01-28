@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Kamal!</h1>
-<h3 align="center">I am a Android dev enthusiast </h3>
+<h3 align="center">  </h3>
 
 A first year student currently persuing my Master's in Computer Application.
 
-- 🖥️ I’m currently working on **Android Development**
+- 🖥️ I’m currently working on **
  
-- 🌱 I've experience of Front-end Web Development and in the Back - end [**Node.js, express.js, MongoDB**]
+- 🌱 I've experience of [**React.js, Node.js, express.js, MongoDB**]
 
 - 📫 How to reach me **kamal659913@gmail.com**
 
