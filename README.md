@@ -5,7 +5,7 @@ A first year student currently persuing my Master's in Computer Application.
 
 - 🖥️ I’m currently working on **
  
-- 🌱 I've experience of [**React.js, Node.js, express.js, MongoDB**]
+- 🌱 I've experience in [**React.js, Node.js, express.js, MongoDB**]
 
 - 📫 How to reach me **kamal659913@gmail.com**
 
