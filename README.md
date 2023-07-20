@@ -3,7 +3,7 @@
 
 A first year student currently persuing my Master's in Computer Application.
 
-- 🖥️ I’m currently working on **
+- 🖥️ I’m currently working on *Web Development*
  
 - 🌱 I've experience in [**React.js, Node.js, express.js, MongoDB**]
 
