@@ -9,7 +9,7 @@ A first year student currently persuing my Master's in Computer Application.
 
 - 📫 How to reach me **kamal659913@gmail.com**
 
-- 🤖Looking Forward explore more on every other technologies.
+- 🤖Looking Forward explore more technologies.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
